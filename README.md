@@ -1,5 +1,5 @@
-# openvpn
-Creates OpenVPN conifguration for AWS with required VPC. 
+# OpenVPN
+Creates OpenVPN conifguration for AWS with required VPC, a fast easy way to deploy OpenVPN with Private and public subnets.
 _________________________________
 
 Single VPC OpenVPN Configuration
